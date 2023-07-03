@@ -50,7 +50,8 @@ table {
 /* Fin du CSS Reset */
 
 .side-panel {
-    height: 821px;
-    width: 320px;
+    height: 757px;
+    width: 256px;
+    padding: 32px;
     background-color: black;
 }
